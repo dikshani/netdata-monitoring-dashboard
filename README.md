@@ -53,3 +53,6 @@ CPU usage alert >80%.
 ./cleanup.sh
 
 ## Screenshots
+
+
+https://roadmap.sh/projects/simple-monitoring-dashboard
